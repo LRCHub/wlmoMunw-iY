@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "首なし閑古鳥",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-03-26T02:04:06.249262Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "首なし閑古鳥",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_首なし閑古鳥_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "首なし閑古鳥",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_首なし閑古鳥_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "首なし閑古鳥",
+      "artist": "Yonezu Kenshi",
+      "has_synced": true,
+      "path": "select/03_首なし閑古鳥_Yonezu_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "首なし閑古鳥",
+      "artist": "米津玄师",
+      "has_synced": true,
+      "path": "select/04_首なし閑古鳥_米津玄师.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "首なし閑古鳥",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_首なし閑古鳥_米津玄師.txt"
+    }
+  ]
+}
